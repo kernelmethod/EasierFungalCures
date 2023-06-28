@@ -9,4 +9,4 @@ Limits the corpse types required for fungal cures to just the following:
 
 - Leech corpse
 - Knollworm corpse
-- Segmented mirthworm corpse-
+- Segmented mirthworm corpse
